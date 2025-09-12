@@ -1,5 +1,5 @@
 {
-  "name": "html2pdf.js",
+  "name": "@timursufiev/html2pdf.js",
   "version": "0.12.0",
   "description": "Client-side HTML-to-PDF rendering using pure JS",
   "main": "dist/html2pdf.js",
@@ -8,7 +8,7 @@
     "/src",
     "/dist"
   ],
-  "repository": "git@github.com:eKoopmans/html2pdf.js.git",
+  "repository": "git@github.com:tsufiev/html2pdf.js.git",
   "keywords": [
     "javascript",
     "pdf-generation",
@@ -16,6 +16,9 @@
     "client-side",
     "canvas"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": {
     "name": "Erik Koopmans",
     "email": "erik@erik-koopmans.com",
