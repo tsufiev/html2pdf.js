@@ -3,3 +3,4 @@ node_modules/
 .devel/
 /.vdiff/
 dist/
+.vscode/
